@@ -1,0 +1,88 @@
+// Global
+$transition: all .15s ease-in-out;
+$shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+
+$radius: 4px;
+$padding: 15px;
+
+// Fonts
+$raleway: 'Raleway', sans-serif;
+$opensans: 'Open Sans', sans-serif;
+
+// Colors
+$white: #fff;
+$black: #000;
+$buttercup: #f3b920;
+$mineshaft: #333333;
+$gallery: #EEEEEE;
+$alto: #d9d9d9;
+
+$primary: #007bff;
+$primary_alt: #0069d9;
+$primary_light: #e6f7ff;
+
+$secondary: #6c757d;
+$secondary_alt: #5a6268;
+
+$success: #28a745;
+$success_alt: #218838;
+
+$danger: #dc3545;
+$danger_alt: #c82333;
+
+// Buttons
+$button_primary_color: $white; 
+$button_primary_color_hover: $white; 
+$button_primary_backgroundcolor: $primary;
+$button_primary_backgroundcolor_hover: $primary_alt;
+
+$button_primary_outline_color: $primary; 
+$button_primary_outline_color_hover: $primary_alt; 
+$button_primary_outline_bordercolor: $primary;
+$button_primary_outline_bordercolor_hover: $primary_alt;
+
+$button_secondary_color: $white; 
+$button_secondary_color_hover: $white; 
+$button_secondary_backgroundcolor: $secondary;
+$button_secondary_backgroundcolor_hover: $secondary_alt;
+
+$button_secondary_outline_color: $secondary; 
+$button_secondary_outline_color_hover: $secondary_alt; 
+$button_secondary_outline_bordercolor: $secondary;
+$button_secondary_outline_bordercolor_hover: $secondary_alt;
+
+$button_success_color: $white; 
+$button_success_color_hover: $white; 
+$button_success_backgroundcolor: $success;
+$button_success_backgroundcolor_hover: $success_alt;
+
+$button_success_outline_color: $success; 
+$button_success_outline_color_hover: $success_alt; 
+$button_success_outline_bordercolor: $success;
+$button_success_outline_bordercolor_hover: $success_alt;
+
+$button_danger_color: $white; 
+$button_danger_color_hover: $white; 
+$button_danger_backgroundcolor: $danger;
+$button_danger_backgroundcolor_hover: $danger_alt;
+
+$button_danger_outline_color: $danger; 
+$button_danger_outline_color_hover: $danger_alt; 
+$button_danger_outline_bordercolor: $danger;
+$button_danger_outline_bordercolor_hover: $danger_alt;
+
+$button_standard_border: 1px solid transparent;
+$button_standard_borderradius: 4px;
+$button_standard_margin: 0px 10px;
+
+$button_small_padding: 4px 8px;
+$button_small_fontsize: 14px;
+
+$button_standard_padding: 6px 12px;
+$button_standard_fontsize: 16px;
+
+$button_large_padding: 8px 16px;
+$button_large_fontsize: 20px;
+
+$button_rounded_borderradius: 25px;
+$button_circle_borderradius: 50%;
